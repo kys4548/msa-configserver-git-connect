@@ -1,4 +1,4 @@
-## Server Config Study
+## Config Server Study
 
 #### Git Repo + ConfigServer + Client
 

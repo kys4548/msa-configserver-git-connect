@@ -9,4 +9,4 @@ spring:
     config:
       server:
         git:
-          uri: 
+          uri: "https://github.com/kys4548/msa-configserver-git-connect"
